@@ -11,26 +11,26 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "22898133388"
-global.ownername = "🩵 𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛"
-global.ytname = "YT: Jean-parker-tech"
+global.ownernomer = "509 35 86 3289"
+global.ownername = "🩵 inconnu tech "
+global.ytname = "YT: butterfly 16 familly"
 global.socialm = "GitHub: Jeanparker100"
 global.location = "Togo, maritime, Lomé"
 
 global.ownernumber = '22898133388'  //creator number
-global.ownername = '𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛' //owner name
-global.botname = '𝙿𝙰𝚁𝙺𝚈-𝙱𝚄𝙶-𝙱𝙾𝚃' //name of the bot
+global.ownername = '𝗕𝘂𝘁𝘁𝗲𝗿𝗳𝗹𝘆¹⁶ FAMILLY' //owner name
+global.botname = '𝗕𝘂𝘁𝘁𝗲𝗿𝗳𝗹𝘆¹⁶ FAMILLY' //name of the bot
 
 //sticker details
 global.packname = '¹⁴³ ᴬˡᵉᵐᵃᵖ 🧸💜'
-global.author = '𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛'
+global.author = 'inconnu tech'
 
 //console view/theme
 global.themeemoji = '🩵'
-global.wm = "𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛 in©"
+global.wm = "inconnu tech in©"
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VagLiHaEVccM6o6Sqc45'
+global.link = 'https://chat.whatsapp.com/ICd2eEMTJJ86bY0toPX7e1'
 
 //custom prefix
 global.prefa = '.'
